@@ -630,12 +630,6 @@ if page == PAGE_OVERVIEW:
                 unsafe_allow_html=True,
             )
 
-    st.caption(
-        "Switch to the Dashboard page above to filter by method, country, and "
-        "BPC type. Full data dictionary: data/dashboard/README.md. Full "
-        "methodology: tiktok-sampling-strategy-v2-proposal.md."
-    )
-
 # ===========================================================================
 # PAGE 2 - DASHBOARD
 # ===========================================================================
